@@ -24,3 +24,5 @@ Contato direto com cada profissional do salão através de links
 
 - **HTML/CSS**
 - **JavaScript**
+
+![logopreto](https://github.com/user-attachments/assets/3d03bc78-26ea-45bb-b616-ec74012eb317)
