@@ -1,3 +1,6 @@
+img {
+    display: flex;
+}
 body {
     background-color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -13,10 +16,25 @@ h2 {
     
 }
 .amarelo {
-    color:gold
+    color:E0D67D
 }
 h3 {
     color: white;
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
+}
+.linkhome {
+    color: white;
+    margin-left: 47%;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 80%;
+}
+.linkhomeimg {
+    margin-left: 50%;
+}
+
+.logohome {
+margin-left: 36%;
+width: 35%;
 }
