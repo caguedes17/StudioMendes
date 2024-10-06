@@ -64,4 +64,15 @@ width: 35%;
 .imgservicos {
     display: flex;
     max-width: 40%;
+
 }
+
+.logocabelho {
+    width: 10%;
+    float: left;
+    margin-right: 0px;
+    align-items: start;
+}
+
+display: flex;
+align-items: center;
